@@ -33,7 +33,7 @@ Designed for speed, usability, and real-world cybersecurity learning.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/cyber-scanner.git
+git clone https://github.com/nitin3811/cyber-scanner.git
 cd cyber-scanner
 ```
 
